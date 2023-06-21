@@ -1,0 +1,482 @@
+{
+  "save": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "3090071": {
+        "name": "Path Scatter",
+        "identifier": 3090071,
+        "instances": {
+          "2498518": {
+            "identifier": 2498518,
+            "name": "Untitled #0",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": [
+                    7066989
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    2434863
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              3435395
+            ]
+          }
+        },
+        "sourceID": 6919359
+      }
+    },
+    "ObjectTags": {},
+    "time": "2023-04-15 13:43:24"
+  },
+  "autosave": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "3090071": {
+        "name": "Path Scatter",
+        "identifier": 3090071,
+        "instances": {
+          "2498518": {
+            "identifier": 2498518,
+            "name": "Untitled #0",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": [
+                    7066989
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    2434863
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              3435395
+            ]
+          }
+        },
+        "sourceID": 6919359
+      }
+    },
+    "ObjectTags": {},
+    "time": "2023-04-15 13:43:24"
+  }
+}

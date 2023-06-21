@@ -1,0 +1,1390 @@
+{
+  "save": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "1960479": {
+        "name": "Path Scatter",
+        "identifier": 1960479,
+        "instances": {
+          "1892516": {
+            "identifier": "1892516",
+            "name": "Untitled #0",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    219527,
+                    1518961,
+                    5471175,
+                    6612945,
+                    3076441,
+                    9408897,
+                    8754738,
+                    5392272
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.1
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              2829393
+            ]
+          },
+          "4398055": {
+            "identifier": "4398055",
+            "name": "Untitled #1",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    219527,
+                    1518961,
+                    5471175,
+                    6612945,
+                    3076441,
+                    9408897,
+                    8754738,
+                    5392272
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.1
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": true
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              5334932
+            ]
+          },
+          "1672634": {
+            "identifier": "1672634",
+            "name": "Untitled #2",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": []
+          }
+        },
+        "sourceID": 6919359
+      }
+    },
+    "ObjectTags": {},
+    "time": "2023-05-08 23:41:41"
+  },
+  "autosave": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "1960479": {
+        "name": "Path Scatter",
+        "identifier": 1960479,
+        "instances": {
+          "1892516": {
+            "identifier": "1892516",
+            "name": "Untitled #0",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    219527,
+                    1518961,
+                    5471175,
+                    6612945,
+                    3076441,
+                    9408897,
+                    8754738,
+                    5392272
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.1
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              2829393
+            ]
+          },
+          "4398055": {
+            "identifier": "4398055",
+            "name": "Untitled #1",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": [
+                    219527,
+                    1518961,
+                    5471175,
+                    6612945,
+                    3076441,
+                    9408897,
+                    8754738,
+                    5392272
+                  ]
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.1
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": true
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": [
+              5334932
+            ]
+          },
+          "1672634": {
+            "identifier": "1672634",
+            "name": "Untitled #2",
+            "visible": true,
+            "frozen": false,
+            "properties": {
+              "b88f8e0242c0": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "9604455716be": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "86e06f443fe1": {
+                "value": {
+                  "Float": 0.6
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "495e47ca7e63": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "3d0f67bc1393": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b9973a0009ae": {
+                "value": {
+                  "Boolean": false
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Boolean": false
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "ae9f198cf417": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "a5de63bc9294": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "e7efd31ee7e4": {
+                "value": {
+                  "SceneContainer": []
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "String": ""
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4ef98c872aab": {
+                "value": {
+                  "Integer": 2
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "6fb90239f71b": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "7b78d89b1548": {
+                "value": {
+                  "Float": 1.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "b2d18cf1a9a8": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "4032b1f5d6de": {
+                "value": {
+                  "Float": 0.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              },
+              "427f5005740d": {
+                "value": {
+                  "Float": 100.0
+                },
+                "linkedState": false,
+                "linkedValue": {
+                  "Integer": 0
+                },
+                "exposed": false,
+                "exposedName": "",
+                "exposedGroup": "",
+                "exposedPosition": 0,
+                "tags": []
+              }
+            },
+            "result": []
+          }
+        },
+        "sourceID": 6919359
+      }
+    },
+    "ObjectTags": {},
+    "time": "2023-05-08 23:41:41"
+  }
+}
