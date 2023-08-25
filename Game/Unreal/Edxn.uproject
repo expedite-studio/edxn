@@ -15,10 +15,6 @@
 		{
 			"Name": "AnimationWarping",
 			"Enabled": true
-		},
-		{
-			"Name": "RLPlugin",
-			"Enabled": true
 		}
 	]
 }
